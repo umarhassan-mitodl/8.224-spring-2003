@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Relativity"
+    ]
+  ],
+  "legacy_uid": "1b4e9db6-6002-bb4d-4841-3d12711c13f3",
+  "instructors": {
+    "content": [
+      "253fdff8-1905-f6d8-1080-55f134512920",
+      "b1f87361-67cc-2ef9-7ac8-85cd5e353db1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fa646bdf-7cc0-3bb7-a8ed-08c100bf2701",
+    "website": "8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003"
+  },
+  "course_title": "Exploring Black Holes: General Relativity & Astrophysics",
+  "hide_download": true,
+  "course_description": "Study of physical effects in the vicinity of a black hole as a basis for understanding general relativity, astrophysics, and elements of cosmology. Extension to current developments in theory and observation. Energy and momentum in flat spacetime; the metric; curvature of spacetime near rotating and nonrotating centers of attraction; trajectories and orbits of particles and light; elementary models of the Cosmos. Weekly meetings include an evening seminar and recitation. The last third of the semester is reserved for collaborative research projects on topics such as the Global Positioning System, solar system tests of relativity, descending into a black hole, gravitational lensing, gravitational waves, Gravity Probe B, and more advanced models of the Cosmos.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.224",
+  "course_image_thumbnail": {
+    "content": "5485385f-c5c7-5036-e9d1-91ba36aec8b9",
+    "website": "8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Exams",
+    "Problem Sets"
+  ],
+  "site_uid": "41375778-fa42-42d7-ad07-e8a13c6f8f44",
+  "site_short_id": "8.224-spring-2003",
+  "site_url_path": "courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003",
+  "title": "Course Metadata"
+}

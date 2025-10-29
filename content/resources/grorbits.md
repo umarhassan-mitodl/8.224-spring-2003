@@ -5,8 +5,6 @@ description: Relativistic Orbits of Matter and Light in the Equatorial Plane of 
 file: /courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/9fc0960e6997e054ee474dabfd77e5a2_GRorbits.zip
 file_size: 99989
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

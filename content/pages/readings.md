@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -289,5 +287,5 @@ Project Reports in Seminar; Project Reports in Recitation Section
 Related Resource
 ----------------
 
-[The Wilkinson Microwave Anisotropy Probe (WMAP)](http://map.gsfc.nasa.gov/)  
+{{% resource_link "bfcb67f4-2bb8-4206-925a-0b7a81f1d35a" "The Wilkinson Microwave Anisotropy Probe (WMAP)" %}}  
 WMAP is a NASA Explorer Mission that is currently measuring the temperature of the cosmic background radiation over the full sky with unprecedented accuracy. This map of the remnant heat of the Big Bang will provide answers to fundamental questions about the origin and fate of our universe. The next steps in cosmology will depend heavily on this and future data from this satellite.

@@ -4,8 +4,6 @@ description: ''
 end_time: ''
 file: null
 file_size: 194089205
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -13,8 +11,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Slides ([HTML](http://web.mit.edu/edbert/Talks/8.224-2/ "Open
-  in a new window."))
+related_resources_text: Slides ({{% resource_link "96acb86c-6f5f-471c-beb3-58a07c91ec9d"
+  "HTML" %}})
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -33,5 +31,5 @@ video_metadata:
 
 Lecturer: Edmund Bertschinge
 
-Slides ([HTML](http://web.mit.edu/edbert/Talks/8.224-2/ "Open in a new window."))
+Slides ({{% resource_link "96acb86c-6f5f-471c-beb3-58a07c91ec9d" "HTML" %}})
 

@@ -4,8 +4,6 @@ description: ''
 file: /courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/4bc4d35ff16517a8f39234639fbc9118_03assignwks1_2.pdf
 file_size: 59965
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
